@@ -3,7 +3,7 @@ document.getElementById('accept-button').addEventListener('click', function() {
 });
 
 document.getElementById('decline-button').addEventListener('click', function() {
-    showPopup('https://cdn.discordapp.com/attachments/1274930656199311406/1278731116424990730/image0.gif?ex=66d1dea7&is=66d08d27&hm=f42babcd160cf67d09969ca44fe749191ba861ff95228aac642398a463c3c7bd&'); // ใส่ลิ้งค์ภาพ GIF สำหรับปุ่ม "ไม่รับ" ที่นี่
+    showPopup('https://cdn.discordapp.com/attachments/1274930656199311406/1278731116424990730/image0.gif?ex=66d3d8e7&is=66d28767&hm=2ce01057f5098d5d4f3295520ca2a5558685c861106736e00a244a33dfe5e1b3&'); // ใส่ลิ้งค์ภาพ GIF สำหรับปุ่ม "ไม่รับ" ที่นี่
 });
 
 function showPopup(imageUrl) {
