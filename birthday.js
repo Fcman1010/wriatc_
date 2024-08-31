@@ -1,5 +1,5 @@
 document.getElementById('accept-button').addEventListener('click', function() {
-    showPopup('https://cdn.discordapp.com/attachments/1274930656199311406/1278727509055115274/image0.gif?ex=66d1db4b&is=66d089cb&hm=5b00d717223ea9092e16947ad6e6fe0431f95cd835717404bafb091477b43741&'); // ใส่ลิ้งค์ภาพ GIF สำหรับปุ่ม "รับ" ที่นี่
+    showPopup('https://cdn.discordapp.com/attachments/1269845951099572258/1279458683096666235/image0.gif?ex=66d48441&is=66d332c1&hm=8dd0ae3939c174e7ce27beb7e3fb02deac4f0537420df5a2d074dec36850f45e&'); // ใส่ลิ้งค์ภาพ GIF สำหรับปุ่ม "รับ" ที่นี่
 });
 
 document.getElementById('decline-button').addEventListener('click', function() {
